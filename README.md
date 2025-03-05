@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-go install github.com/trymoose/handwriting2svg@latest
+go install github.com/bobcatalyst/handwriting2svg@latest
 ```
 
 ## Usage
